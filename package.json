@@ -1,0 +1,19 @@
+{
+  "name": "ecommdatamodelling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakshithsantosh/ecommDataModelling.git"
+  },
+  "author": "Rakshith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakshithsantosh/ecommDataModelling/issues"
+  },
+  "homepage": "https://github.com/rakshithsantosh/ecommDataModelling#readme"
+}
